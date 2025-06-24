@@ -31,4 +31,3 @@ A fun and interactive Discord bot that lets users obtain, manage, and battle wit
    git clone https://github.com/yourusername/discord-pokemon-bot.git
    cd discord-pokemon-bot
 
-sigma
